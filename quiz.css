@@ -1,0 +1,28 @@
+body {
+    background-color: #eee;
+}
+table {
+    text-align: left;
+}
+td {
+    padding: 5px;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+}
+th {
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+h1 {
+    text-align: left;
+}
+.css-selector {
+    font-family: 'Pacifico', cursive;
+}
+.center-div {
+    margin: 0 auto;
+    max-width: 535px;
+}
+.collapse {
+    border-collapse: collapse;
+}
