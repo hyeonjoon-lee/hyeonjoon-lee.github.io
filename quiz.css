@@ -2,16 +2,16 @@ body {
     background-color: #eee;
 }
 table {
+    padding: 5px;
     text-align: left;
 }
 td {
     padding: 5px;
-    border-top: 1px solid #cccccc;
-    border-bottom: 1px solid #cccccc;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 th {
     padding: 5px;
-    border-bottom: 1px solid black;
 }
 h1 {
     text-align: left;
@@ -21,8 +21,14 @@ h1 {
 }
 .center-div {
     margin: 0 auto;
-    max-width: 535px;
+    max-width: 220px;
 }
 .collapse {
     border-collapse: collapse;
+    width: 450px;
+}
+article {
+    float: left;
+    padding: 20px;
+    width: 70%;
 }
